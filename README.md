@@ -12,5 +12,3 @@ https://reneedanielleb.github.io/Project-Horiseon-refrac-code-/
 
 Screenshot:
 
-
-
