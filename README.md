@@ -13,8 +13,4 @@ https://reneedanielleb.github.io/Project-Horiseon-refrac-code-/
 Screenshot:
 
 
-# Contributor:
-Renee Buchanan @ReneeDanielleB
 
-# License:
-MIT License
