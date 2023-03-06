@@ -11,4 +11,4 @@ This webpage has been updated for ease of user accessibility and has been better
 https://reneedanielleb.github.io/Project-Horiseon-refrac-code-/
 
 Screenshot:
-![screencapture-reneedanielleb-github-io-Project-Horiseon-refrac-code-2023-03-06-21_35_30](https://user-images.githubusercontent.com/119815093/223237917-f944aa87-9401-41fe-997a-94b6304fcf8e.png)
+
